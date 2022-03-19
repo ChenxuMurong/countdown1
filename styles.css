@@ -1,0 +1,18 @@
+body{
+font-size: large;
+background-color: black;
+color: white;
+
+}
+
+
+.emph{
+
+text-decoration:underline dotted
+
+}
+
+
+#lastRemark:hover{
+    background-color: darkblue;
+}
